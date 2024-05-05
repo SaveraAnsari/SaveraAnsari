@@ -1,3 +1,6 @@
+![logo](https://github.com/SaveraAnsari/SaveraAnsari/blob/main/2.png)
+
+
 <h1 align="center">Hi 👋, I'm Savera Ansari</h1>
 <h3 align="center">Proficient in Python, Data Science, and React for comprehensive software development."</h3>
 <img align="right" alt ="coding" width="400" src="https://thumbs.dreamstime.com/b/muslim-girl-gamer-streamer-hijab-headset-sits-computer-abstract-lava-lamp-backdrop-cartoon-anime-style-271006297.jpg">
