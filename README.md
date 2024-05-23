@@ -1,4 +1,3 @@
-![logo](https://github.com/SaveraAnsari/SaveraAnsari/blob/main/1.png)
 
 
 <h1 align="center">Hi 👋, I'm Savera Ansari</h1>
